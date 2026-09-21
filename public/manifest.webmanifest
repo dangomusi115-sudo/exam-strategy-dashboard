@@ -1,0 +1,9 @@
+{
+  "name": "Exam Strategy Dashboard",
+  "short_name": "受験戦略",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#312e81",
+  "description": "過去問・模試・志望校目標をまとめて管理する受験戦略ダッシュボード"
+}

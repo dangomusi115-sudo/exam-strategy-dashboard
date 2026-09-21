@@ -1,0 +1,8 @@
+{
+  "name": "Exam Strategy Dashboard v2",
+  "description": "大学受験の過去問・模試・目標点・成長分析を一元管理するダッシュボード",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
